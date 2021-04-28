@@ -38,6 +38,9 @@
     "vite-plugin-pwa": "^0.7.2",
     "vite-plugin-vue-layouts": "^0.2.2",
     "vite-plugin-windicss": "^0.14.6",
-    "vite-ssg": "^0.9.2"
+    "vite-ssg": "^0.9.2",
+    "cypress": "^7.1.0",
+    "@cypress/vite-dev-server": "^1.2.3",
+    "@cypress/vue": "^3.0.1"
   }
 }
